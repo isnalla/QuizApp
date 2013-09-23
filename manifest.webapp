@@ -1,0 +1,13 @@
+{
+	"name" : "Isnalla Quiz App",
+	"description" : "Isnalla Quiz App - Great for studying and reviewing",
+	"launch_path" : "home.html",
+	"icons" : {
+		"128" : "/img/quizapplogo.png"
+	},
+	"developer" :{
+		"name" : "Anthony Allan Conda",
+		"url" : "https://facebook.com/allan.conda"
+	},
+	"default_locale": "en"
+}
